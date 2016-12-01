@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Sirupsen/logrus"
 	"github.com/SocialCodeInc/go-gelf/gelf"
+	"github.com/TykTechnologies/logrus"
 )
 
 const SyslogInfoLevel = 6

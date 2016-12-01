@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/TykTechnologies/logrus"
 )
 
 // Set graylog.BufSize = <value> _before_ calling NewGraylogHook
